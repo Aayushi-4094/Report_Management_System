@@ -2,15 +2,13 @@
 # Report_Management_System
 
 
-This project demonstrates the creation of a simple HTML form using JavaScript, CSS, and HTML. The form allows users to submit their details, including a health report in PDF format. The user details and PDF file are then inserted into a MySQL database using PHP. Additionally, a separate PHP code is provided to fetch and display the user's health report based on their email ID.
+This project demonstrates the creation of a simple HTML form using CSS, HTML, and PHP. The form allows users to submit their details, including a health report in PDF format. The user details and PDF file are then inserted into a MySQL database using PHP. Additionally, a separate PHP code is provided to fetch and display the user's health report based on their email ID.
 
 
 
 ## Features
 
 User-friendly HTML form with fields for name, age, weight, email ID, and health report upload.
-
-JavaScript for form validation to ensure required fields are filled.
 
 CSS styling for an attractive and responsive form layout.
 
@@ -46,7 +44,7 @@ Open your web browser and type localhost/index.php to access the form.
 
 ## Project Structure
 
-index.php: HTML form with JavaScript validation.
+index.php: HTML form with CSS styling.
 
 connection.php: PHP code to establish a connection between the frontend and the backend (MySQL database).
 
